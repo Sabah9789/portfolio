@@ -87,9 +87,9 @@ const TIMELINE = [
 ];
 
 const LINKS = [
-  { label: "GitHub", href: "#" },
-  { label: "LinkedIn", href: "#" },
-  { label: "Email", href: "mailto:hello@sabahhassan.dev" },
+  { label: "GitHub", href: "https://github.com/Sabah9789" },
+  { label: "LinkedIn", href: "https://www.linkedin.com/in/sabah-hassan-270297398" },
+  { label: "Email", href: "mailto:sh9744489@gmail.com?subject=Portfolio%20Inquiry" },
   { label: "Freelance Profile", href: "#" },
 ];
 
