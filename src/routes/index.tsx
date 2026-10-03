@@ -90,7 +90,7 @@ const LINKS = [
   { label: "GitHub", href: "https://github.com/Sabah9789" },
   { label: "LinkedIn", href: "https://www.linkedin.com/in/sabah-hassan-270297398" },
   { label: "Email", href: "mailto:sh9744489@gmail.com?subject=Portfolio%20Inquiry" },
-  { label: "Freelance Profile", href: "#" },
+  { label: "WhatsApp", href: "https://wa.me/201149149483" },
 ];
 
 function Index() {
